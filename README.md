@@ -1,6 +1,6 @@
 # Aki Boilerplate
 
-This is @kmertcanaltin's front-end boilerplate 2022.
+This is @mertcanaltin's front-end boilerplate 2022.
 
 Farewell to `create-react-app`!
 
